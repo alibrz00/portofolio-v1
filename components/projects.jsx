@@ -14,7 +14,7 @@ export default function Projects() {
       title: "E-Commerce Dashboard",
       description:
         "A responsive admin dashboard for an e-commerce platform with analytics, inventory management, and order processing.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://img.freepik.com/free-psd/various-web-printable-templates-with-screen_23-2148450117.jpg?uid=R177832842&ga=GA1.1.1936951632.1729536474&semt=ais_hybrid&w=740",
       tags: ["React", "Next.js", "Tailwind CSS", "Chart.js"],
       liveUrl: "#",
       githubUrl: "#",
@@ -23,7 +23,7 @@ export default function Projects() {
       title: "Travel Booking App",
       description:
         "A modern travel booking application with destination search, booking management, and user authentication.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://img.freepik.com/free-psd/various-web-printable-templates-with-screen_23-2148450117.jpg?uid=R177832842&ga=GA1.1.1936951632.1729536474&semt=ais_hybrid&w=740",
       tags: ["React", "Redux", "Tailwind CSS", "Firebase"],
       liveUrl: "#",
       githubUrl: "#",
@@ -32,7 +32,7 @@ export default function Projects() {
       title: "Recipe Finder",
       description:
         "A web application that allows users to search for recipes based on ingredients, dietary restrictions, and meal types.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://img.freepik.com/free-psd/various-web-printable-templates-with-screen_23-2148450117.jpg?uid=R177832842&ga=GA1.1.1936951632.1729536474&semt=ais_hybrid&w=740",
       tags: ["Next.js", "API Integration", "Responsive Design"],
       liveUrl: "#",
       githubUrl: "#",
@@ -41,7 +41,7 @@ export default function Projects() {
       title: "Portfolio Website",
       description:
         "A personal portfolio website showcasing projects, skills, and contact information with a modern design.",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://img.freepik.com/free-psd/various-web-printable-templates-with-screen_23-2148450117.jpg?uid=R177832842&ga=GA1.1.1936951632.1729536474&semt=ais_hybrid&w=740",
       tags: ["React", "Framer Motion", "Tailwind CSS"],
       liveUrl: "#",
       githubUrl: "#",
