@@ -49,7 +49,7 @@ export default function About() {
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-10 max-w-xl mx-auto">
             <div className="flex items-center gap-3 bg-gray-800 p-4 rounded-lg">
               <MapPin className="text-purple-500" size={24} />
-              <span className="text-gray-300">Alexandria, Egypt</span>
+              <span className="text-gray-300">Settat, Morocco</span>
             </div>
             <div className="flex items-center gap-3 bg-gray-800 p-4 rounded-lg w-max">
               <Mail className="text-purple-500" size={24} />
