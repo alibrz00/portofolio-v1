@@ -62,7 +62,7 @@ export default function Hero() {
 
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6">
           Hi, I'm <span className="bg-gradient-to-r from-purple-500 to-blue-500 bg-clip-text text-transparent">
-            Essam Mohamed
+            Ali Bourzgui
           </span>
         </h1>
 
