@@ -30,7 +30,7 @@ export default function Contact() {
                 <div>
                   <h4 className="font-medium mb-1">Email</h4>
                   <a
-                    href="mailto:Essam@example.com"
+                    href="mailto:ali@example.com"
                     className="text-gray-400 hover:text-white transition-colors"
                   >
                     essam@example.com
