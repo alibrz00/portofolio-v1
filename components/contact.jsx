@@ -48,7 +48,7 @@ export default function Contact() {
                     href="tel:+1234567890"
                     className="text-gray-400 hover:text-white transition-colors"
                   >
-                    +1 (234) 567-890
+                    +212774877063
                   </a>
                 </div>
               </div>
@@ -59,7 +59,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-medium mb-1">Location</h4>
-                  <p className="text-gray-400">New York, NY, United States</p>
+                  <p className="text-gray-400">Settat , Morocco</p>
                 </div>
               </div>
             </div>
