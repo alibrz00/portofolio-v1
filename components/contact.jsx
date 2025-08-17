@@ -33,7 +33,7 @@ export default function Contact() {
                     href="mailto:ali@example.com"
                     className="text-gray-400 hover:text-white transition-colors"
                   >
-                    essam@example.com
+                    bourzguiali10@gmail.com
                   </a>
                 </div>
               </div>
@@ -144,7 +144,7 @@ export default function Contact() {
                     name="name"
                     required
                     className="w-full px-4 py-3 bg-gray-800 border border-gray-700 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
-                    placeholder="Essam Mohamed"
+                    placeholder="Ali Bourzgui"
                   />
                 </div>
                 <div>
