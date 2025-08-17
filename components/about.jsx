@@ -53,7 +53,7 @@ export default function About() {
             </div>
             <div className="flex items-center gap-3 bg-gray-800 p-4 rounded-lg w-max">
               <Mail className="text-purple-500" size={24} />
-              <span className="text-gray-300">essam.mohamed.dev@gmail.com</span>
+              <span className="text-gray-300">bourzguiali10@gmail.com</span>
             </div>
           </div>
 
